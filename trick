@@ -1,0 +1,1 @@
+ls|grep 8k_part_|xargs -n1 -i{} mv {} {}.txt # 修改后缀
